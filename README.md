@@ -1,1 +1,0 @@
-# Seismic-Data-Generator
